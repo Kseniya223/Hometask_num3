@@ -1,6 +1,5 @@
 .thearticle {
-    background-color:#fff;
-    margin-block: 5px;
+    margin: 5px;
     font-size: 14px;
     text-align: justify;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -22,18 +21,17 @@ margin-left: 5px;
 margin-bottom: 20px;
 text-decoration: underline;
 }
-.ref1,.ref2,.ref3,.ref4 {
+.ref a {
     color: brown;
     font-weight: 600;
     margin-right: 20px;
         }
-.localref1,.localref2,.localref3 {
+.localref a {
             color: darkgreen;
             font-weight: 600;
             margin-right: 40px;
 } 
 #sportphoto {
-    width: max-content;
     border-radius: 28px;
     display: flex;
 }
